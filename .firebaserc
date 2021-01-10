@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-1341a": {
+      "hosting": {
+        "chat": [
+          "chat-1341a"
+        ]
+      }
+    }
+  }
+}
